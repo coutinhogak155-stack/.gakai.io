@@ -1,0 +1,2 @@
+# .gakai.io
+AK AI is an AI project focused on creating  useful and accessible artificial intelligence  tools for people around the world.  Our vision is to build technology that helps  people learn, create and solve problems.
